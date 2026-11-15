@@ -1,0 +1,7 @@
+# Use this workspace to collaborate
+workspace:
+  id: e6421d98-18a9-4b7e-8874-c1aca000c9a5
+
+localResources:
+  collections:
+    - ../FitNest_Gym_Locker_System.postman_collection.json
